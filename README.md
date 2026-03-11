@@ -30,5 +30,5 @@ Users can search for any city and see the current temperature, weather condition
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/weatherapp.git
+git clone https://github.com/M4th3wss/weatherapp.git
 cd weatherapp
